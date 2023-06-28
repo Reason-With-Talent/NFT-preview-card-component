@@ -1,65 +1,77 @@
-.nft{
-width: 300px;
-background-color: hsl(216, 50%, 16%);
-border-radius: 15px;
-margin: auto;
-padding: 20px;
-margin-top: 70px;
+.nft {
+    width: 300px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 15px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 70px;
 }
 
-body{
-    background-color:hsl(217, 54%, 11%) ;
+body {
+    background-color: hsl(217, 54%, 11%);
 }
-.nft img{
+
+.nft img {
     width: 100%;
 }
-h3{
+
+h3 {
     color: hsl(0, 0%, 100%);
     font-family: 'Outfit', sans-serif;
 }
-.nft p{
+
+.nft p {
     color: hsl(215, 51%, 70%);
     font-family: 'Outfit', sans-serif;
 }
-.nft .good{
-color:hsl(178, 100%, 50%) ;
-font-family: 'Outfit', sans-serif;
-display: flex;
-align-items: center;
-}
-.nft .time{  
-    color:hsl(215, 51%, 70%) ;
+
+.nft .good {
+    color: hsl(178, 100%, 50%);
     font-family: 'Outfit', sans-serif;
     display: flex;
     align-items: center;
 }
-.nft .total{
-display: flex;
-justify-content: space-between;
-align-items: center;
+
+.nft .time {
+    color: hsl(215, 51%, 70%);
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    align-items: center;
 }
-.nft .time img{
-    width: 15px;
-    padding-right: 5px ;
+
+.nft .total {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
-.nft .good img{
+
+.nft .time img {
     width: 15px;
-    padding-right: 5px ;
+    padding-right: 5px;
+}
+
+.nft .good img {
+    width: 15px;
+    padding-right: 5px;
 
 }
-.nft .name img{
+
+.nft .name img {
     width: 30px;
     height: 30px;
     padding-right: 10px;
 }
-.name{
+
+.name {
     display: flex;
-align-items: center;
+    align-items: center;
 }
-.lv{
-    color:hsl(0, 0%, 100%) ;
+
+.lv {
+    color: hsl(0, 0%, 100%);
 }
-.o{
+
+.o {
     border-bottom: 2px solid hsl(215, 51%, 70%);
     margin: 10px 0px;
 }
